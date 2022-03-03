@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: #31065f;
+}
+
+a:link {
+	color: #FF0000;
+}
+
+a:visited {
+	color: #FF7C7C;
+}
+
+.upperleftlogo {
+	float: left;
+	padding: 0.5%;
+}
+
+.underconstructioncenter {
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	bottom: 25%;
+	right: 25%;
+}
+
+ul {
+	text-align: left;
+}
+
